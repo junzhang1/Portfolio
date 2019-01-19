@@ -21,3 +21,11 @@ I believe visualizations can make data meaningful and powerful. I hope to learn 
 Here is where all of my data visualization will go!
 
 
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <img  src="http://oi63.tinypic.com/25qduah.jpg"/>
+      <figcaption> Picture of aurora I took this month :blush:</figcaption>
+    </figure>
+  </div>
+</div>
