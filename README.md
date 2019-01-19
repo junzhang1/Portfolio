@@ -18,3 +18,9 @@ I believe visualizations can make data meaningful and powerful. I hope to learn 
 
 # **Portfolio**
 Here is where all of my data visualization will go!
+
+
+<figure>
+  <img src="http://oi63.tinypic.com/25qduah.jpg" alt="Trulli" style="width:100%">
+  <figcaption>picture of aurora I took this month :blush:</figcaption>
+</figure>
