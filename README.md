@@ -24,8 +24,9 @@ Here is where all of my data visualization will go!
 <div class="container">
   <div class="subcontainer">
     <figure>
+    <center>
       <img  src="http://oi63.tinypic.com/25qduah.jpg"/>
       <figcaption> Picture of aurora I took this month</figcaption>
-    </figure>
+    </figure><center>
   </div>
 </div>
