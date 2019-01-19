@@ -12,6 +12,7 @@ Travelling is a major passion of mine, and I spend a lot of my free-time plannin
   <figcaption>picture of aurora I took this month :blush:</figcaption>
 </figure>
 
+
 I'm glad to be in this class to improve my data visualization skills!
 
 # **What I hope to learn**
