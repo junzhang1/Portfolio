@@ -13,7 +13,7 @@ Travelling is a major passion of mine, and I spend a lot of my free-time plannin
 </figure>
 
 
-I'm glad to be in this class to improve my data visualization skills!
+  I'm glad to be in this class to improve my data visualization skills!
 
 # **What I hope to learn**
 I believe visualizations can make data meaningful and powerful. I hope to learn more about color theory, data processing and all kinds of data visualization tools. And the most important part is how to choose the best data visualization methods and how to interpret our findings. It would be better if we can have more Tableau hands on exercises.
