@@ -8,6 +8,7 @@ Hey! This is Jun Zhang, 2nd year PPM student at Heinz. I have a strong backgroun
 
 Travelling is a major passion of mine, and I spend a lot of my free-time planning out future adventures. I've been to many countries like  Egypt, Brazil, Russia, French, Germany, and Japan, and my dream is to travel around the world.
 ![click here](http://oi63.tinypic.com/25qduah.jpg) 
+### picture of aurora I took this month :blush:
 
 I'm glad to be in this class to improve my data visualization skills!
 
