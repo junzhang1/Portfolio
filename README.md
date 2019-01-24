@@ -20,3 +20,5 @@ Here is where all of my data visualization will go!
 
 ## Assignment 1: OECD data visualization 
 ### 1. The government debt bar chart. 
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQmCsvUcXVoYdiMwkpvYR18icWx0GVBnCLEFFiEkZyMC0kt1m_GATkxfmqeombFk1NNZf06z8RiZwaO/pubchart?oid=2033412647&amp;format=interactive"></iframe>
