@@ -42,3 +42,5 @@ From the above 3 graphs, we can see that:
 * The bar chart only shows the government debt-to-GDP ratios in year 2015, but we can get the exact number for each country.
 * Both the beeswarm plot and bump chart can show the changes in government debt-to-GDP ratios from 1996 to 2016, and we can get the relative size of the ratio based on the size of circle or the size of the band over time.
 * Compared to beeswarm plot, bump chart is better when we want to see the overall trends and ranks of each country over time.
+
+*Source: OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2019)*
