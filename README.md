@@ -23,7 +23,7 @@ Here is where all of my data visualization will go!
 
 <iframe src="https://data.oecd.org/chart/5rXb" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5rXb" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-From the bar chart we can see the government debt-to-GDP ratio of 34 countries for the year 2015. 
+From the bar chart we can see the government debt-to-GDP ratio of 34 countries for the year 2015. Obviously, in 2015, Japan had the highest government debt to GDP ratios (237%), followed by Greece (183%) and Italy (157%). Estonia had the lowest debt-to-GDP ratios (13%).
 
 
 ### 2. The government debt beeswarm plot
