@@ -55,3 +55,6 @@ The graph I chose shows money raised from popular fundraisers and the number of 
 
 2. Intuitiveness: the form of display should be relatively familiar to understand. The original graph doesn't do very well in intuitiveness. It takes time and effort for audience to spot a pattern between the 2 categories by diseases since the deaths and dollars are aligned by values rather than diseases. So it forces the reader to look at one disease at a time.
 
+3. Truthfulness: data visualization should be accurate and valid. The graph has problem with data inconsistency. The data source for some diseases like heart disease and diabetes is for the year 2013 and the data source for breast cancer is for the year 2012. However, data for different years cannot be compared under the same circumstances. The problem is relatede to data collection, which is not my main concern here.
+
+Next, I collected death statistics from CDC report for year 2011, and enter the data into the spreadsheet.
