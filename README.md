@@ -44,3 +44,8 @@ From the above 3 graphs, we can see that:
 * Compared to beeswarm plot, bump chart is better when we want to see the overall trends and ranks of each country over time.
 
 *Source: OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2019)*
+
+
+## Assignment 2: Graph Critique and Redisign
+### 1. graph critique
+The graph I chose shows money raised from popular fundraisers and the number of related disease deaths. The [original diagram](http://www.vox.com/2014/8/20/6040435/als-ice-bucket-challenge-and-why-we-give-to-charity-donate) uses bubble chart with categorical levels encoded in colors.
