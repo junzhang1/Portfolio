@@ -46,6 +46,9 @@ From the above 3 graphs, we can see that:
 *Source: OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2019)*
 
 
+
 ## Assignment 2: Graph Critique and Redisign
 ### 1. graph critique
-The graph I chose shows money raised from popular fundraisers and the number of related disease deaths. The [original diagram](http://www.vox.com/2014/8/20/6040435/als-ice-bucket-challenge-and-why-we-give-to-charity-donate) uses bubble chart with categorical levels encoded in colors.
+The graph I chose shows money raised from popular fundraisers and the number of related disease deaths. The [original graph](http://www.vox.com/2014/8/20/6040435/als-ice-bucket-challenge-and-why-we-give-to-charity-donate) uses bubble chart with 8 categorical levels encoded in colors. The sizes of the circles are proportional to money raised for and deaths caused by the 8 diseases. The graph seems fine at first sight, but it suffers from the following problems according to [Stephen Few's Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf).
+
+
