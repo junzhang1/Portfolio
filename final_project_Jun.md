@@ -8,11 +8,12 @@ This is my final project for the Telling Stories with Data class at CMU!
 
 
 ### 2. Data
-The dataset comes from the New York State Bureau of Vital Records. [Click here to download the dataset](https://health.data.ny.gov/api/views/j6fz-a4ta/rows.csv?accessType=DOWNLOAD). For more information, [check out here](https://healthdata.gov/dataset/vital-statistics-suicide-deaths-age-group-raceethnicity-resident-county-region-and-gender).
+The dataset comes from the New York State Bureau Department of Health. [Click here to download the dataset](https://health.data.ny.gov/api/views/j6fz-a4ta/rows.csv?accessType=DOWNLOAD). For more information, [check out here](https://healthdata.gov/dataset/vital-statistics-suicide-deaths-age-group-raceethnicity-resident-county-region-and-gender).
 
 This dataset was collected from 2003 to 2016. It contains firearm death counts, alcohol-related death counts, and suicide death counts by region (New York State inside and outside of New York City), race or ethnicity (Hispanic, White, Black, Other, Not Stated), sex (male and female), and age group (<1, 20-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, 85+). I will be using all the attributes to create a number of graphs. First, I will make a line graph showing the total dealth counts over time by 3 kinds of death. Second, I will make 3 bar chart for 3 kinds of dealth, with each one showing death counts by age group over time. Third, I will make 3 alluvial diagrams showing death counts by region, race, sex, and age group for 3 kinds of death. Other kinds of graphs will be determined later.
 
 
 ### 3. Method and Medium
-I will be building a story using Shorthand and making graphs using RAWGraphs. Shorthand is a tool to captivate audiences with fully responsive design, while RAWGraphs can help us build quick graphs easily. I will use Shorthand to deliver my whole final project because I think it is a convenient tool to help us visualized our data and conveyed our ideas. We can use a very narrative way to explaining our data from simple to complex. They enable me to identify patterns, trends and correlations in data and communicate effectively.
+I will be building a story using Shorthand and making graphs using RAWGraphs. Shorthand is a tool to captivate audiences with fully responsive design, while RAWGraphs can help us identify patterns, trends and correlations in data and build quick graphs easily. They allow me to analyze data and communicate effectively.
 
+Here is where all of my data visualization will go!
