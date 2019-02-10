@@ -6,7 +6,8 @@ This is my final project for the Telling Stories with Data class at CMU!
 
 ### 1. Outline
 
+
 ### 2. Data
+![Click here to download the dataset](https://health.data.ny.gov/api/views/j6fz-a4ta/rows.csv?accessType=DOWNLOAD)
 
-
-### 3.Method and Medium
+### 3. Method and Medium
