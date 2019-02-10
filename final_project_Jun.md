@@ -16,4 +16,3 @@ This dataset was collected from 2003 to 2016. It contains firearm death counts, 
 ### 3. Method and Medium
 I will be building a story using Shorthand and making graphs using RAWGraphs. Shorthand is a tool to captivate audiences with fully responsive design, while RAWGraphs can help us build quick graphs easily. I will use Shorthand to deliver my whole final project because I think it is a convenient tool to help us visualized our data and conveyed our ideas. We can use a very narrative way to explaining our data from simple to complex. They enable me to identify patterns, trends and correlations in data and communicate effectively.
 
-By inserting interesting pictures and our graphs, we can give our audience a better understanding of our idea and data.
