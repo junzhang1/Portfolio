@@ -5,10 +5,12 @@ This is my final project for the Telling Stories with Data class at CMU!
 ## **Part I**
 
 ### 1. Outline
-Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence.
+Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence. Besides, suicide is a major national public health issue in the United States. According to the CDC's National Center for Health Statistics (NCHS), there were 44,965 recorded suicides in 2016. 
+Here I want to 
 
 *Sources: 
-Deaths: Justin Haskins.(July 5, 2016) Why no beef with John Barleycorn? The Washington Times. Retrieved from: https://www.washingtontimes.com/news/2016/jul/5/guns-far-less-dangerous-than-alcohol/*
+Justin Haskins.(July 5, 2016) Why no beef with John Barleycorn? The Washington Times. Retrieved from: https://www.washingtontimes.com/news/2016/jul/5/guns-far-less-dangerous-than-alcohol/*
+*2016, United States: Suicide Injury Deaths and Rates per 100,000. (All Races, Both Sexes, All Ages)". Retrieved 3 March 2018 – via [WISQARS Fatal Injury Reports](https://webappa.cdc.gov/sasweb/ncipc/mortrate.html) – CDC.*
 
 
 ### 2. Data
