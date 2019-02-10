@@ -9,8 +9,10 @@ Alcohol killed more people than guns. According to the National Institute on Alc
 Here I want to 
 
 *Sources: 
+
 Justin Haskins.(July 5, 2016) Why no beef with John Barleycorn? The Washington Times. Retrieved from: https://www.washingtontimes.com/news/2016/jul/5/guns-far-less-dangerous-than-alcohol/*
-*2016, United States: Suicide Injury Deaths and Rates per 100,000. (All Races, Both Sexes, All Ages)". Retrieved 3 March 2018 – via [WISQARS Fatal Injury Reports](https://webappa.cdc.gov/sasweb/ncipc/mortrate.html) – CDC.*
+
+*2016, United States: Suicide Injury Deaths and Rates per 100,000. (All Races, Both Sexes, All Ages)". Retrieved 10 February 2019 – via [WISQARS Fatal Injury Reports](https://webappa.cdc.gov/sasweb/ncipc/mortrate.html) – CDC.*
 
 
 ### 2. Data
