@@ -4,9 +4,9 @@ This is my final project for the Telling Stories with Data class at CMU!
 
 ## **Part I**
 
-###**Outline**
+### 1. Outline
 
-###**Data**
+### 2. Data
 
 
-###**Method and Medium**
+### 3.Method and Medium
