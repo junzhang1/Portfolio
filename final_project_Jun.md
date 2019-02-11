@@ -5,7 +5,7 @@ This is my final project for the Telling Stories with Data class at CMU!
 ## **Part I**
 
 ### 1. Outline
-Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence. Here I want to compare the patterns and trends of two causes of death by analyzing the total counts and demographic characteristics of victims in New York State. After that, I will provide some suggestions to reduce alcohol-related and firearm fatalities. I will also point out the demographic characteristics of people who are highly like to become the victims of gun and alcohol.
+Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence. First I will show the misconception most people believe, which is guns killing more poeple than alcohol. Then I want to compare the patterns and trends of two causes of death by analyzing the total counts and demographic characteristics of victims in New York State. After that, I will provide some suggestions to reduce alcohol-related and firearm fatalities. I will also point out the demographic characteristics of people who are highly like to become the victims of gun and alcohol.
 
 *Sources:*
 
