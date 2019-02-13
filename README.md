@@ -58,7 +58,7 @@ The graph I chose shows money raised from popular fundraisers and the number of 
 3. Truthfulness: data visualization should be accurate and valid. The graph has problem with data inconsistency. The data source for some diseases like heart disease and diabetes is for the year 2013 and the data source for breast cancer is for the year 2012. However, data for different years cannot be compared under the same circumstances. The problem is related to data collection, which is not my main concern here.
 
 ### 2. redesign
-[Here is the link to my mockup]
+[Here is the link to my wireframe.](http://oi64.tinypic.com/dyabtv.jpg)
 
 Next, I collected death statistics from CDC report for year 2011, and enter the data into the spreadsheet. Then I used Infogram to create a scatter plot. Here is what I created:
 
