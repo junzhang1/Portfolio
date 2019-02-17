@@ -57,3 +57,5 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
   * 
 
+### 3. Revised Mockup
+[NewProject.pdf](https://github.com/junzhang1/Portfolio/files/2873297/NewProject.pdf)
