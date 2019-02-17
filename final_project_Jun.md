@@ -49,13 +49,16 @@ I used storyboad tying in sketches below to show the primary elements of my stor
   4. Do you have any other comments?
   
 * the findings from your interviews; 
-  * Put two graphs Death Counts by Region and Death Counts by Gender together to reduce space and make it more informative.
+  * Put two graphs (Death Counts by Region and Death Counts by Gender) together to reduce space and make it more informative.
   * Add some pictures or GIFs to make it vivid.
   * Change the title to make it more intuitive. It's confusing.
   * Alluvial diagram is not that informative and it's redundant.
+  * Consider changing the graph type.
 
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
-  * 
+  * Combine Death Counts by Region and Death Counts by Gender.
+  * For the graph showing death count by age, calculate the percentage of age group, and add mark labels.
+  * For the graph showing death percentage by race, change the percentage to absolute value and change the chart type to side-by-side circles.
 
 ### 3. Revised Mockup
 ![new mockup 1](https://user-images.githubusercontent.com/42786336/52917784-65d24e80-32bd-11e9-8ddf-c6db84578323.png)
