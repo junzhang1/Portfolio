@@ -5,7 +5,7 @@ This is my final project for the Telling Stories with Data class at CMU!
 ## **Part I: Project Proposal**
 
 ### 1. Outline
-Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence. First I will show the misconception most people believe, which is guns killing more poeple than alcohol. Then I want to compare the patterns and trends of two causes of death by analyzing the total counts and demographic characteristics of victims in New York State. After that, I will provide some suggestions to reduce alcohol-related and firearm fatalities. I will also point out the demographic characteristics of people who are highly like to become the victims of gun and alcohol.
+Alcohol killed more people than guns. According to the National Institute on Alcohol Abuse and Alcoholism, about 88,000 people die from alcohol-related causes each year, making alcohol the fourth-leading preventable cause of death in America. By comparison, the Brady Campaign to Prevent Gun Violence reports less than 33,000 people die each year from gun violence. First I will show the misperception most people believe, which is guns killing more poeple than alcohol. Then I want to compare the patterns and trends of two causes of death by analyzing the total counts and demographic characteristics of victims in New York State. After that, I will provide some suggestions to reduce alcohol-related and firearm fatalities. I will also point out the demographic characteristics of people who are highly like to become the victims of gun and alcohol.
 
 *Sources:*
 
@@ -33,7 +33,7 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 ### 2. User Research Protocol
 * the target audience you hope to reach with your story; 
   
-  The purpose of my story is to correct people's misconception about deaths from alcohol and deaths from guns in New York State. So my target audience are those who have the misconception.
+  The purpose of my story is to correct people's misperception about deaths from alcohol and deaths from guns in New York State. So my target audience are those who have the misperception.
   
 * your approach to identifying representative individuals to interview; 
 
@@ -52,8 +52,8 @@ I used storyboad tying in sketches below to show the primary elements of my stor
   * Put two graphs Death Counts by Region and Death Counts by Gender together to reduce space and make it more informative.
   * Add some pictures or GIFs to make it vivid.
   * Change the title to make it more intuitive. It's confusing.
-  * Alluvial diagram is not that informative and redundant.
-  * Change the order of demographical characteristics and the time series graph story. 
+  * Alluvial diagram is not that informative and it's redundant.
 
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+  * 
 
