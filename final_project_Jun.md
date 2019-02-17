@@ -45,9 +45,15 @@ I used storyboad tying in sketches below to show the primary elements of my stor
   
   1. Can you tell me what you think my story is about?
   2. Is my story logical?
-  3
+  3. Are those charts easy to understand? If not, which one should be improved?
+  4. Do you have any other comments?
   
-  
-* the findings from your interviews; and 
+* the findings from your interviews; 
+  * Put two graphs Death Counts by Region and Death Counts by Gender together to reduce space and make it more informative.
+  * Add some pictures or GIFs to make it vivid.
+  * Change the title to make it more intuitive. It's confusing.
+  * Alluvial diagram is not that informative and redundant.
+  * Change the order of demographical characteristics and the time series graph story. 
+
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
