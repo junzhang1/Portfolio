@@ -30,3 +30,10 @@ Here is where all of my data visualization will go!
 I used storyboad tying in sketches below to show the primary elements of my story outline and draft data visualizations of the critical elements of my story.
 ![click](http://oi63.tinypic.com/24pxbol.jpg)
 
+### 2. User Research Protocol
+* the target audience you hope to reach with your story; 
+* your approach to identifying representative individuals to interview; 
+* your interview script; 
+* the findings from your interviews; and 
+* changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+
