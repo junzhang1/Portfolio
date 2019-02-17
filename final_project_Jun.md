@@ -58,4 +58,5 @@ I used storyboad tying in sketches below to show the primary elements of my stor
   * 
 
 ### 3. Revised Mockup
-[NewProject.pdf](https://github.com/junzhang1/Portfolio/files/2873297/NewProject.pdf)
+![new mockup 1](https://user-images.githubusercontent.com/42786336/52917784-65d24e80-32bd-11e9-8ddf-c6db84578323.png)
+
