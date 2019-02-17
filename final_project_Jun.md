@@ -43,8 +43,8 @@ I used storyboad tying in sketches below to show the primary elements of my stor
   
   All the questions are open-ended.
   
- 1. Can you tell me what you think my story is about?
- 2.
+  1. Can you tell me what you think my story is about?
+  2.
   
 * the findings from your interviews; and 
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
