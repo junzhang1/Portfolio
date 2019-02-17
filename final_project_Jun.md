@@ -27,5 +27,6 @@ Here is where all of my data visualization will go!
 ## **Part 2: Sketches, Wireframes, Storyboards and Moodboards**
 
 ### 1. Sketches and Storyboards
+I used storyboad tying in sketches below to show the primary elements of my story outline and draft data visualizations of the critical elements of my story.
 ![click](http://oi63.tinypic.com/24pxbol.jpg)
 
