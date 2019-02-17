@@ -33,10 +33,18 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 ### 2. User Research Protocol
 * the target audience you hope to reach with your story; 
   
-  The purpose of my story is to correct people's misconception about deaths from alcohol and deaths from guns. So my target audience are those who have the misconception.
+  The purpose of my story is to correct people's misconception about deaths from alcohol and deaths from guns in New York State. So my target audience are those who have the misconception.
+  
 * your approach to identifying representative individuals to interview; 
+
+  Before I did the interview, I would first ask the potential representative individuals (my classmates and my roommates) a question: "In your opinion, which of the following led to more deaths in the New York State? Gun or Alcohol?" If they said gun, they would be the representative individuals and I would present my storyboard and sketches to them.
   
 * your interview script; 
+  
+
+  1. Can you tell me what you think my story is about?
+  
+  
 * the findings from your interviews; and 
 * changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
