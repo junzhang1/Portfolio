@@ -33,7 +33,7 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 ### 2. User Research Protocol
 * the target audience you hope to reach with your story; 
   
-  The purpose of my story is to correct people's misperception about deaths from alcohol and deaths from guns in New York State. So my target audience are government official and the public who have the misperception. My mission is to draw people's attention to alcohol-related death.
+  The purpose of my story is to correct people's misperception about deaths from alcohol and deaths from guns in New York State. So my target audience are government official and the public especially those who have the misperception. My mission is to draw people's attention to alcohol-related death.
   
 * your approach to identifying representative individuals to interview; 
 
