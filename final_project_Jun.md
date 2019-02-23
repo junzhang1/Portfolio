@@ -63,3 +63,6 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 ### 3. Revised Mockup
 ![new mockup 1](https://user-images.githubusercontent.com/42786336/52918867-37a73b80-32ca-11e9-8986-ee5beb36ebb1.png)
 
+
+## **Part III: Final deliverable**
+### 1. Outcome Personas
