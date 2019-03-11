@@ -68,5 +68,9 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 ### 1. Outcome Personas
 <img width="667" alt="screen shot 2019-02-23 at 12 12 41 am" src="https://user-images.githubusercontent.com/42786336/53282005-c7e8e480-36ff-11e9-8303-0e46d5c20c0a.png">
 
-### 2. Data Story
+### 2. Summary
+In this project, I focus on the 
+
+### 3. Data Story
 [Click here to open the link](https://preview.shorthand.com/hBockuAiLBtU21Dx)
+
