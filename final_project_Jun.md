@@ -69,8 +69,14 @@ I used storyboad tying in sketches below to show the primary elements of my stor
 <img width="667" alt="screen shot 2019-02-23 at 12 12 41 am" src="https://user-images.githubusercontent.com/42786336/53282005-c7e8e480-36ff-11e9-8303-0e46d5c20c0a.png">
 
 ### 2. Summary
-In this project, I focus on the 
+In this project, I mainly focus on the fact that alcohol killing more people than firearms in New York State. We know firearms have received much attention from the public, and a set of rules and regulations has been enforced to prevent firearms-related deaths. However, alcohol should also be paid more attention to since it already killed many people in the New York State.
+
+I start with a line graph showing the firearm and alcohol-related deaths from 2003 to 2016. It can be clearly seen that over the past decade in New York, there has been a gradual rise in alcohol related deaths, while firearm deaths remained relatively stable. Besides, alcohol was always more than four times as deadly as firearms. After that, I focus more on the demographic characteristics of those who died from alcohol-related causes or firearms. I used different types of graph such as line gragh, bar chart, and streamgraph to show the difference between 2 kinds of death by gender, region, and age. I want to use the difference to show policy makers what kind of people are prone to firearm and alcohol-related deaths. And finally I suggest policy makers to implement rules and regulations to address alcohol-related deaths.
 
 ### 3. Data Story
 [Click here to open the link](https://preview.shorthand.com/hBockuAiLBtU21Dx)
 
+### 4. Reference
+1. Dataset: https://healthdata.gov/dataset/vital-statistics-suicide-deaths-age-group-raceethnicity-resident-county-region-and-gender
+2. Xu, J., Murphy, S. L., Kochanek, K. D., Bastian, B., & Arias, E. (2018). Deaths: Final data for 2016.
+3. Centers for Disease Control and Prevention (CDC). Alcohol and Public Health: Alcohol-Related Disease Impact (ARDI). Average for United States 2006–2010 Alcohol-Attributable Deaths Due to Excessive Alcohol Use. 
