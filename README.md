@@ -1,7 +1,7 @@
 
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
-link to live site: https://junzhang1.github.io/Portfolio/
+link to live site: https://junzhang1.github.io/Telling-Stories-with-Data/
 
 # **About Me**
 Hey! This is Jun Zhang, 2nd year PPM student at Heinz. I have a strong background in quanlitative research. I've worked for NGOs such as United Nations Development Programme, government, and private companies as a research assistant. I'm now focusing on data processing and data analytics, and this is the main reason why I chose this course.
